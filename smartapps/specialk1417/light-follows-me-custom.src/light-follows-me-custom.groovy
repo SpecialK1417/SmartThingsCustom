@@ -26,7 +26,7 @@
 definition(
     name: "Light Follows Me Custom",
     namespace: "SpecialK1417",
-    author: "SpecialK1417",
+    author: "Ken Washington",
     description: "Turn your lights on when motion is detected with various new options.",
     category: "Convenience",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/Meta/temp_thermo-switch.png",
